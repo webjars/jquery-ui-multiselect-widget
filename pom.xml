@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jquery-ui-multiselect-widget</artifactId>
-    <version>1.3</version>
+    <version>1.4-SNAPSHOT</version>
     <name>jquery-ui-multiselect-widget</name>
     <description>WebJar for jquery-ui-multiselect</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/jquery-ui-multiselect-widget</url>
         <connection>scm:git:https://github.com/webjars/jquery-ui-multiselect-widget.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jquery-ui-multiselect-widget.git</developerConnection>
-        <tag>jquery-ui-multiselect-widget-1.3</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
